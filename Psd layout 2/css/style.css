@@ -1,0 +1,379 @@
+.container {
+    height: auto;
+    width: 1200px;
+    margin: 0 auto;
+ 
+
+}
+header{
+	background-image: url(../image/banner.png);
+	height: 745px;
+	width: 1200px;
+	
+
+}
+.menu{
+	width: 1200px;
+	height: 200px;
+	float: left;
+	
+
+}
+.menu ul{
+	list-style: none;
+	margin: 20px 255px 0px 0px;
+}
+#allmenu li {
+    float: right;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 30px;
+}
+.menu a{
+	color: white;
+	text-decoration: none;
+
+}
+header h1{
+	font-size:30px;
+	text-transform: uppercase; 
+}
+.Your_life span{
+    background: #16a085;
+    color: white;
+    padding: 8px 15px;
+    border-radius:3px;
+ }
+.Your_life span a{
+ 	color: white;
+ 	text-decoration: none;
+ 	font-size: 12px;
+ }
+.Your_life{
+	width: 1200px;
+	height: 0 auto;
+	text-align: center;
+	color: white;
+	float: right;
+	margin-top:135px;
+
+
+}
+
+ .link{
+ 	   width: 1200px;
+ 	   height: 80px;
+ 	   float: right;
+ 	   margin-top: 200px;
+ 	  
+ }
+.logo{
+ 	padding: 20px;
+ 	margin:20px 520px 0px 570px;
+ 	
+
+ }
+ .logo a{
+ 	color: white;
+ 	padding: 2%;
+ }
+ .Rappresent{
+ 	width: 1200px;
+ 	height: 500px;
+ 	background-color: #f5f6f7;
+ 	text-align: left;
+ }
+ .photoinfo{
+ 	float: left;
+ 	width: 500px;
+ 	height:400px;
+ 	padding: 60px 0px 0px 100px;
+
+ }
+.photoinfo h3 {
+	color: #16a085;
+	text-transform: uppercase;
+
+}
+.photoinfo p{
+	color: #82868f;
+}
+.photoinfo span{
+    background: #16a085;
+    color: white;
+    padding: 10px 25px;
+    border-radius:3px;  
+ }
+.photoinfo span a{
+ 	color: white;
+ 	text-decoration: none;
+ 	font-size: 12px;
+  
+ }
+ .Phonepic{
+ 	float: right;
+ 	width: 600px;
+ 	height:500px;
+
+ }
+ .Phonepic img{
+ 	margin: 80px 0px 0px 0px;
+ 	width: 450px;
+ 	height: 400px;
+
+ }
+
+
+ .PhoneDesign{
+ 	width: 1200px;
+ 	height: 740px;
+ 	text-align: left;
+ 	margin: -20px 0px 0px 0px;
+ 	background-color: white;
+ 
+ }
+ .Phonepic2{
+ 	float: left;
+ 	width: 600px;
+ 	height:750px;
+    
+ }
+ .iphone{
+ 	height: 750px;
+ 	width: 0 auto;
+ 	background-image: url(../image/iphone.png);
+    background-repeat: no-repeat;
+    margin: 100px 0px 0px 100px;
+
+ }
+ 
+ .design{
+ 	float: left;
+ 	width: 500px;
+ 	height:650px;
+ 	padding: 100px 0px 0px 100px;
+ 	margin:px 0px 0px 0px;
+
+ }
+.design h3 {
+	color: #16a085;
+	text-transform: uppercase;
+
+}
+.design p{
+	color: #82868f;
+}
+.design span{
+    background: #16a085;
+    color: white;
+    padding: 10px 25px;  
+ }
+.design span a{
+ 	color: white;
+ 	text-decoration: none;
+ 	font-size: 12px;
+  
+ }
+ .design ul{
+ 	margin: 0px 0px 10px 0px;
+ 	transform: translate(-10%,-10%); 
+ }
+.design ul li{
+	float: left;
+	list-style: none;
+	font-size: 30px;
+	padding: 0% 1.5% 0% 1.5%; 
+
+}
+.design ul li a{
+	color: black;
+
+}
+.slider{
+	width: 1200px;
+	height: 400px;
+	background-color:#f5f6f7;
+	margin: -150px 0px 0px 0px;
+}
+.box1{
+	width: 400px;
+	height: 400px;
+	float: left;
+	margin: -157px 0px 0px 0px;
+}
+.box1 img{
+	margin: 140px 0px 0px 170px;
+}
+.box1 h3{
+	text-align: center;
+	color: #373737;
+}
+.box1 p{
+	text-align: center;
+	color: #82868f;
+}
+.box2{
+	width: 400px;
+	height: 400px;
+	float: left;
+	margin: -157px 0px 0px 0px;
+}
+.box2 img{
+	margin: 100px 0px 0px 30px;
+	width: 300px;
+	height: 200px;	
+}
+.box3{
+	width: 400px;
+	height: 400px;
+	float: right;
+	margin: -157px 0px 0px 0px;
+}
+.box3 img{
+		margin: 0px 0px 0px 10px;
+		width: 300px;
+		height: 200px;	
+}
+.box3 ul{
+ 	margin: 60px 80px 0px 0px;
+ 	transform: translate(-10%,-10%);
+ 	float:right; 
+ }
+.box3 ul li{
+	float: left;
+	list-style: none;
+	font-size: 30px;
+	padding: 0px 4px; 	
+
+}
+.box3 ul li a{
+	color: black;
+
+}
+.subscribto{
+	background-image: url(../image/background.png);
+	width: 1200px;
+	height: 600px;
+	background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.main_subscribe{
+		text-align: center;
+        padding-top: 340px;
+
+}
+.main_subscribe h2{
+        font-size: 23px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+        letter-spacing: 4px;
+        color: white;
+}
+.main_subscribe form{
+        overflow: hidden;
+        margin: 0 auto;
+        display: block;
+        background: #ffffff;
+        width: 340px;
+        height: 56px;
+        border-radius: 4px;
+    }
+input[type=email] {
+        border: none;
+        width: 255px;
+        line-height: 4;
+        letter-spacing: 4px;
+        color: #000000;
+        outline: none;
+
+}    
+input[type=image] {
+        height: 16px;
+        width: 20px;
+        background: #16a085;
+        float: right;
+        padding: 20px 20px;
+        outline: none;
+
+      
+}
+.main_download{
+    height: 380px;
+    width: 1200px;
+   	background-color:#f5f6f7;
+   	margin: -15px 0px 0px 0px;
+
+    
+}
+.Download{
+	text-align: center;
+   	margin: 0px 150px;
+}
+
+.Download h3{
+    font-size: 17px;
+    color: #373737;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding-top: 90px;
+}
+.Download p{
+	color: #7c7c7c;
+    font-size: 11px;
+    letter-spacing: 2px;
+    padding: 20px 0;
+    text-transform: uppercase;
+    line-height: 2;
+}
+.store a{
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding-left: 20px;
+    background: #1abc9c;
+    line-height: 4;
+    margin: 0 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+}
+.store img{
+    height: 26px;
+    float: right;
+    margin-left: 115px;
+    padding: 20px;
+    background: #16a085;
+    border-radius: 0 4px 4px 0;
+}
+footer{
+	height: 140px;
+	width: 1200px;
+
+}
+.copy{
+	height: 140px;
+	width:600px;
+	float: left;
+
+}
+.copy p{
+	margin: 30px 0px 0px 90px;
+	float: left;
+
+}
+.copy span p{
+	text-transform: uppercase;	
+}
+
+.Clogo{
+	height: 140px;
+	width: 600px;
+	float: right;
+
+}
+.Clogo img{
+	margin: 20px 90px;
+	float: right;
+}
+  			
